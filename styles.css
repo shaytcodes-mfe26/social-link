@@ -106,5 +106,5 @@ margin-top: .75rem;
 }
 
 .foot-link{
-    background: var(--clr-primary-Green);
+    color: var(--clr-primary-Green);
 }
